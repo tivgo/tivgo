@@ -4,10 +4,10 @@
 - 🎯 Focused on web and mobile development;
 - 🌱 I’m currently learning C/C++ and Javascript.
 
-- Languages
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js)](https://skillicons.dev)
 
-- Technologies
+### Technologies
 
 
 ### Contact me 💬
